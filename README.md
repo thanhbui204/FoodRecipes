@@ -1,5 +1,5 @@
 # FoodRecipes
-This project is from The Complete JavaScript Course 2020 from Udacity. Using JavaScript ES6, OOP, AJAX and Webpack to build a webpage for food recipes 
+Using JavaScript ES6, OOP, AJAX and Webpack to build a webpage for food recipes following instructions from The Complete JavaScript Course 2020 from Udacity. 
 
 #Instructions: ( using Command promt in Window or Linux )
 <p>Step 1: clone this project to local machine. Type: git clone https://github.com/thanhbui204/FoodRecipes.git </p>
